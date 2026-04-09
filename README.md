@@ -52,5 +52,6 @@ I also integrated the AI logic into the main game loop (`naval_battle`).
 I refactored the original project by:
 
 - Removing unnecessary game modes to improve clarity and user experience
+- Adding few game features to improve the user experiece
 - Restructuring the code to better separate gameplay and simulation
 - Adding a simulation mode with CSV data export for performance analysis
