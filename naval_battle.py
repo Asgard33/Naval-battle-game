@@ -469,7 +469,7 @@ def recurse_random(list1, list2):
     takes two lists list1 and list2 and returns a random element from list1 that is not in list2'''
     
     if list1 == []:
-        return None #for safety, but never verified in normal case
+        return None #safety, but never verified in normal case
         
     t = random.choice(list1)
     
