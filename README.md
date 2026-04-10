@@ -55,3 +55,11 @@ I refactored the original project by:
 - Adding few game features to improve the user experiece
 - Restructuring the code to better separate gameplay and simulation
 - Adding a simulation mode with CSV data export for performance analysis
+
+
+## 📊 Results
+
+The results PDF is in French as it comes from the original analysis context.  
+However, the key insights are:
+- AI+ significantly outperforms random AI
+- The heuristic strategy improves hit efficiency

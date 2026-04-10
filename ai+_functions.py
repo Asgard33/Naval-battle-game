@@ -2,9 +2,10 @@ def recurse_random(list1, list2):
     '''list*list --> tuple 
     takes two lists list1 and list2 and returns a random element from list1 that is not in list2'''
     
-    if list1 == []:
-        return None #safety, but never verified in normal case
-        
+
+    if list1==[]:
+        return None  #safety case, but never verified in normal time
+    
     t = random.choice(list1)
     
     if t in list2:
