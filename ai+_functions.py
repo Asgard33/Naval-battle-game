@@ -1,3 +1,5 @@
+import random
+
 def recurse_random(list1, list2):
     '''list*list --> tuple 
     takes two lists list1 and list2 and returns a random element from list1 that is not in list2'''

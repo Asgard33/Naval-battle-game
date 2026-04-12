@@ -1,6 +1,6 @@
 # 🚢 Jeu de Bataille Navale
 
-Jeu de bataille navale implémenté en Python, intégrant une IA basée sur une stratégie hunt-and-target, plusieurs modes de jeu (IA vs IA, joueur vs IA) et une architecture modulaire.
+Jeu de bataille navale implémenté en Python, intégrant une IA suivant sur une stratégie hunt-and-target, plusieurs modes de jeu (IA vs IA, joueur vs IA) et une architecture modulaire.
 
 ## Fonctionnalités
 
