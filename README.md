@@ -1,3 +1,6 @@
+🇫🇷 Une version française est disponible dans README_FR.md
+
+
 # 🚢 Naval Battle Game
 
 Battleship game implemented in Python featuring a hunt-and-target based strategy AI, multiple game modes (AI vs AI, player vs AI), and a modular architecture 
